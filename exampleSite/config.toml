@@ -1,7 +1,7 @@
 baseurl = "https://timothyj-heckman.netlify.app"
 googleAnalytics = ""
 languageCode = "en-us"
-paginate = 6
+paginate = "6"
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "timothyj heckman"
