@@ -8,6 +8,7 @@ fields:
 - type: file
   name: image
   label: image
+  hidden: false
 - type: datetime
   name: date
   label: date
